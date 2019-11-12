@@ -3,7 +3,7 @@
 > [GUN](https://github.com/amark/gun) is a realtime, decentralized, offline-first, graph protocol to sync the web.
 
 - [Apps](#apps)
-- [Plugins / Helpers](#plugins-helpers)
+- [Plugins / Helpers](#plugins--helpers)
 - [Framework Integrations](#framework-integrations)
 - [Alternative Implementations](#alternative-implementations)
 
