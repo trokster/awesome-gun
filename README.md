@@ -1,7 +1,6 @@
 # ✨Awesome Gun✨
 
-[GUN](https://github.com/amark/gun) is a realtime, decentralized, offline-first, graph protocol to sync the web.
-
+> [GUN](https://github.com/amark/gun) is a realtime, decentralized, offline-first, graph protocol to sync the web.
 
 ## Apps
 
@@ -15,6 +14,10 @@
   - Broadcast with ease, straight from your browser
 - [PushToTalk](https://github.com/QVDev/GunPushToTalk)
   - A Push to Talk demo with GUN db
+- [RayGun](https://github.com/JamieRez/raygun)
+  - Raygun is a tool used to build and navigate dimensions
+- [Maskbook](https://github.com/DimensionDev/Maskbook)
+  - Encrypt your posts & chats on You-Know-Where. Allow only your friends to decrypt.
 
 ## Plugins / Helpers
 
@@ -24,6 +27,8 @@
   - Gun Utility to Traverse Graph and use d3.js to visualize
 - [CRDT Continuous Sequence](https://github.com/nmaro/crdt-continuous-sequence)
   - Makes CRDT sets orderable
+- [gunjs trust share key](https://github.com/Lightnet/gunjstrustsharekey)
+  - gun.js Trust and Share Key functions simple.
   
 ## Framework Integrations
 
