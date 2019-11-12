@@ -14,8 +14,6 @@
   - Broadcast with ease, straight from your browser
 - [PushToTalk](https://github.com/QVDev/GunPushToTalk)
   - A Push to Talk demo with GUN db
-- [RayGun](https://github.com/JamieRez/raygun)
-  - Raygun is a tool used to build and navigate dimensions
 - [Maskbook](https://github.com/DimensionDev/Maskbook)
   - Encrypt your posts & chats on You-Know-Where. Allow only your friends to decrypt.
 
