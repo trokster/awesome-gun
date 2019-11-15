@@ -7,6 +7,8 @@
 - [Framework Integrations](#framework-integrations)
 - [Alternative Implementations](#alternative-implementations)
 
+---
+
 ## Apps
 
 - [GUN Kanban](https://github.com/nmaro/gun-kanban/)
