@@ -41,6 +41,8 @@
 
 - [svelte gundb example](https://github.com/ak5/svelte-gun-example)
   - This is a project template for Svelte apps with the gun database.
+- [sapper/svelte gundb example](https://gitlab.com/trokster/svelte-sapper-gun-template)
+  - This is a project template for Sapper/Svelte apps with the gun database. The server is served alongside the page and accessigne at location.origin + "/gun". Sapper is a framework designed with svelte to facilitate offline first functionality and all svelte goodness.
 - [Weir](https://github.com/rm-rf-etc/weir)
   - Auto-generate react component data bindings to gundb nodes
 
