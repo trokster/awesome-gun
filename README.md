@@ -28,6 +28,8 @@
   - Streaming component for Gun db.
 - [visualGraph](https://github.com/dletta/visualGraph)
   - Gun Utility to Traverse Graph and use d3.js to visualize
+- [Gun-scape](https://github.com/lmangani/gun-scape)
+  - GunDB Cytoscape Graph Visualizer + Live Editor
 - [CRDT Continuous Sequence](https://github.com/nmaro/crdt-continuous-sequence)
   - Makes CRDT sets orderable
 - [gunjs trust share key](https://github.com/Lightnet/gunjstrustsharekey)
