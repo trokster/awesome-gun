@@ -43,6 +43,8 @@
   - This is a project template for Svelte apps with the gun database.
 - [Weir](https://github.com/rm-rf-etc/weir)
   - Auto-generate react component data bindings to gundb nodes
+- [Gundb torrent signalling](https://github.com/sloev/gundb_torrent_signalling)
+  - Example of how to use webtorrent for gundb webrtc signalling using Trystero
 
 ## Alternative Implementations
 
